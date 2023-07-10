@@ -1,10 +1,10 @@
 # Online Grocery Store Analysis Using Python
 
-### Uncovering more information about the company's sales patterns to derive insights and suggest strategies for better customer segmentation using Python.
+### Uncovering more information about the company's sales patterns to derive insights and suggest marketing strategies for better customer segmentation using Python.
 
 ## Overview
 
-I'm analysing the fictitious data of Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. I've performed an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. 
+I'm analysing the fictitious data of Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. I've performed an initial data and exploratory analysis of some of their data in order to derive insights and suggest marketing strategies for better segmentation based on the provided criteria. 
 
 ## Links
 
